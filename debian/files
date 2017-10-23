@@ -1,0 +1,8 @@
+hostapd-dbgsym_2.4-1.0nosystemd2_amd64.deb debug extra
+hostapd_2.4-1.0nosystemd2_amd64.deb net optional
+wpa_2.4-1.0nosystemd2_amd64.buildinfo net optional
+wpagui-dbgsym_2.4-1.0nosystemd2_amd64.deb debug extra
+wpagui_2.4-1.0nosystemd2_amd64.deb net optional
+wpasupplicant-dbgsym_2.4-1.0nosystemd2_amd64.deb debug extra
+wpasupplicant-udeb_2.4-1.0nosystemd2_amd64.udeb debian-installer standard
+wpasupplicant_2.4-1.0nosystemd2_amd64.deb net optional
